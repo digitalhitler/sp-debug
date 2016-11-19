@@ -1,0 +1,26 @@
+{
+  "name": "sp-debug",
+  "version": "1.0.0",
+  "description": "Console timing debugger for Node & browser",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/digitalhitler/sp-debug.git"
+  },
+  "keywords": [
+    "debug",
+    "timing",
+    "console",
+    "debugger",
+    "timer"
+  ],
+  "author": "Sergey Petrenko <spetrenko@me.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/digitalhitler/sp-debug/issues"
+  },
+  "homepage": "https://github.com/digitalhitler/sp-debug#readme"
+}
